@@ -1,6 +1,2 @@
 streamlit_folium
 beautifulsoup4
-urllib
-re
-gspread
-os
