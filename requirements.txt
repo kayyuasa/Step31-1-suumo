@@ -1,3 +1,4 @@
 streamlit_folium
 beautifulsoup4
 gspread
+oauth2client
